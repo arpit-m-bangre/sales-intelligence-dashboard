@@ -1,3 +1,7 @@
+<img width="1536" height="1024" alt="ChatGPT Image May 6, 2026, 11_10_24 PM" src="https://github.com/user-attachments/assets/c9520b23-bd82-40c7-ac3b-bb760b988f3f" />
+
+
+
 # 🛒 Sales Intelligence & Business Insights Dashboard
 
 ## 📌 Project Overview
